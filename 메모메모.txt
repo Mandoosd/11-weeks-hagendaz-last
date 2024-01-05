@@ -1,0 +1,5 @@
+include=포함시킨다.
+
+<? =php 선언.
+
+swiper 쓸때 스크립트에 defer 꼭 붙여야함!
